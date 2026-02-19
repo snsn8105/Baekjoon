@@ -1,6 +1,6 @@
 # [level 4] 그룹별 조건에 맞는 식당 목록 출력하기 - 131124 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131124) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131124?gad_source=1&gad_campaignid=22499034228&gbraid=0AAAAAC_c4nCNy_gBcoIPdM9tlOlvHHGaS&gclid=Cj0KCQiAhtvMBhDBARIsAL26pjHTQn18rV5EiVaq1lE8hcyWQ5uqeFVZ0ayB1eeI6NnnUw-TGmMjZYYaAvT0EALw_wcB) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2025년 10월 31일 18:03:30
+2026년 02월 19일 21:19:23
 
 ### 문제 설명
 
